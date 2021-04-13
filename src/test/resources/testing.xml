@@ -1,0 +1,8 @@
+<suite name="DemoTools">
+ <test name="DemoTools_Testing">
+  <classes>
+  	 <class name="base.basePage" />
+     <class name="test_exec.TestRunner" />
+  </classes>
+ </test>
+</suite>
